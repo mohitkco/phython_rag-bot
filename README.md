@@ -7,3 +7,7 @@ pip install langchain langchain-community langchain-chroma langchain-ollama lang
 
 python populate_database.py --reset
 python query_data.py
+
+
+ensure this should run on terminal
+$env:OLLAMA_HOST="http://127.0.0.1:11434"
