@@ -20,3 +20,8 @@ ollama pull nomic-embed-text
 
 ensure this should run on terminal
 $env:OLLAMA_HOST="http://127.0.0.1:11434"
+
+move app.py into the folder and
+use these commands
+python -m pip install streamlit
+to run use streamlit run app.py
