@@ -12,7 +12,7 @@ python populate_database.py --reset
 python query_data.py
 
 
-you also need to download a ai bot and processor is following
+you also need to download an ai bot and process is following
 download from https://ollama.com/ and install it
 then run these two in terminal
 ollama pull mistral
